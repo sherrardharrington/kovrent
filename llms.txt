@@ -1,0 +1,29 @@
+# Kovrent
+
+> Kovrent is a permanent-capital holding company that buys SEC-registered
+> RIAs ($100M-$1B AUM) outright from founders with no named successor.
+> Part of the price is paid in Kovrent equity, so the founder becomes a
+> partner in the holding company. Acquired firms keep their brand (by
+> default), team, and own SEC registration. No fund clock. Kovrent does
+> not resell. Kovrent is not an RIA.
+
+## Key pages
+
+- [Sell your RIA](https://kovrent.com/sell-your-ria): who we buy and why founders choose us
+- [How a deal works](https://kovrent.com/how-a-deal-works): process from first call to close
+- [How we pay](https://kovrent.com/how-we-pay): cash, seller equity, and structure
+- [What we buy](https://kovrent.com/what-we-buy): the acquisition criteria
+- [Why permanent capital](https://kovrent.com/why-permanent-capital): no fund clock, no exit mandate
+- [Why Kovrent](https://kovrent.com/why-kovrent): what stays and what changes after a sale
+- [About](https://kovrent.com/about): the team and the thesis
+- [FAQ](https://kovrent.com/faq): common founder questions
+- [Advisors](https://kovrent.com/advisors): for advisors and IARs
+
+## Facts
+
+- Buys: SEC-registered RIAs, $100M-$1B AUM (sweet spot $200M-$600M), owner 55+ with no named successor, off-market
+- Model: 100% acquisition, part of the price paid in Kovrent equity, permanent hold, firm keeps its own ADV and brand by default
+- Founder becomes a partner in Kovrent with a share of every firm acquired after his own
+- Not disclosed: pricing, multiples, fund size, investor terms
+- Acquisitions led by a partner with 30 years as an SEC-registered advisor who has acquired and integrated advisory practices into his own firm
+- Not: a roll-up, an aggregator, or a fund with an exit timeline
